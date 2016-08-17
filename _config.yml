@@ -1,7 +1,7 @@
 name: cc4real
 favicon: null
-layout_spectrum: 0.11324575752951205
-typography_spectrum: 0.8283699154853821
+layout_spectrum: 1
+typography_spectrum: 0.05074
 cta:
   domain: null
   bucket: null
