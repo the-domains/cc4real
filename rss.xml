@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cc4real]]></title>
+        <description><![CDATA[cc4real]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 16:06:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A little ditty about me. My name is Cheryl Collier. I'm a professional hair and make-up artist, anti-aging consultant, designer, entrepreneur, blogger, dreamer, life changer, mother and instigator of real talk. </p>]]></description>
+            <link>undefineda-little-ditty-about-me-my-name-is-cheryl-collier-im-a-pr/index.html</link>
+            <guid isPermaLink="false">56ac3c1b-ad75-4c35-b96d-4a907bf621ae</guid>
+            <pubDate>Wed, 17 Aug 2016 16:06:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
