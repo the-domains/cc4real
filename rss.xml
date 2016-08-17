@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[cc4real]]></title>
         <description><![CDATA[cc4real]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cc4real/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:06:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 16:31:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cc4real/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1209de1e-df88-4d2d-987d-893ca8078bdd.jpg">]]></description>
+            <link>https://thegrid.ai/cc4real/5577f104-d695-464e-9850-b8cd893dccf9/index.html</link>
+            <guid isPermaLink="false">5577f104-d695-464e-9850-b8cd893dccf9</guid>
+            <pubDate>Wed, 17 Aug 2016 16:30:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>A little ditty about me. My name is Cheryl Collier. I'm a professional hair and make-up artist, anti-aging consultant, designer, entrepreneur, blogger, dreamer, life changer, mother and instigator of real talk. </p>]]></description>
-            <link>undefineda-little-ditty-about-me-my-name-is-cheryl-collier-im-a-pr/index.html</link>
+            <link>https://thegrid.ai/cc4real/a-little-ditty-about-me-my-name-is-cheryl-collier-im-a-pr/index.html</link>
             <guid isPermaLink="false">56ac3c1b-ad75-4c35-b96d-4a907bf621ae</guid>
             <pubDate>Wed, 17 Aug 2016 16:06:23 GMT</pubDate>
         </item>
