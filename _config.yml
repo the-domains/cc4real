@@ -1,20 +1,4 @@
-name: cc4real
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 1
-title: 'REAL work, REAL talk, REAL life'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 0.75
   saturation: 0.625
   rhythmicContrast: 0.9725460805930197
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: cc4real
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: WHAT IF... you had no limitations?
+    url: 'http://ccpromua.successtoday.com'
+    type: external
+favicon: null
+title: 'REAL work, REAL talk, REAL life'
 purpose: []
