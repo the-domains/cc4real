@@ -1,21 +1,19 @@
 ---
+keywords: []
+title: ''
+datePublished: '2016-08-28T05:10:58.412Z'
+dateModified: '2016-08-28T05:01:35.088Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: true
 inNav: false
-inLanguage: null
-keywords: []
 description: >-
   A little ditty about me. My name is Cheryl Collier. I'm a professional hair
   and make-up artist, anti-aging consultant, designer, entrepreneur, blogger,
   dreamer, life changer, mother and instigator of real talk. 
-datePublished: '2016-08-17T16:06:23.155Z'
-dateModified: '2016-08-17T16:04:40.777Z'
-title: ''
-author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
+starred: true
 sourcePath: _posts/2016-08-17-a-little-ditty-about-me-my-name-is-cheryl-collier-im-a-pr.md
 url: a-little-ditty-about-me-my-name-is-cheryl-collier-im-a-pr/index.html
 _type: Article
