@@ -4,8 +4,15 @@
         <description><![CDATA[REAL work, REAL talk, REAL life]]></description>
         <link>https://thegrid.ai/cc4real/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 15:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 05:10:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cc4real/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A little ditty about me. My name is Cheryl Collier. I'm a professional hair and make-up artist, anti-aging consultant, designer, entrepreneur, blogger, dreamer, life changer, mother and instigator of real talk. </p>]]></description>
+            <link>https://thegrid.ai/cc4real/a-little-ditty-about-me-my-name-is-cheryl-collier-im-a-pr/index.html</link>
+            <guid isPermaLink="false">56ac3c1b-ad75-4c35-b96d-4a907bf621ae</guid>
+            <pubDate>Sun, 28 Aug 2016 05:10:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f562414-b069-45f8-abd6-c3031ecabe8d.jpg" alt="Models/clients: Cole, Wesstin, Misty, Deborah &amp; Mike, Lyllia, Molly, Sarah and Raychel  Contributing Photographers: Rob Deaton, Amanda Barbosa, Sebastian Smith, Ed C. Cunningham">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/cc4real/5577f104-d695-464e-9850-b8cd893dccf9/index.html</link>
             <guid isPermaLink="false">5577f104-d695-464e-9850-b8cd893dccf9</guid>
             <pubDate>Wed, 24 Aug 2016 14:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A little ditty about me. My name is Cheryl Collier. I'm a professional hair and make-up artist, anti-aging consultant, designer, entrepreneur, blogger, dreamer, life changer, mother and instigator of real talk. </p>]]></description>
-            <link>https://thegrid.ai/cc4real/a-little-ditty-about-me-my-name-is-cheryl-collier-im-a-pr/index.html</link>
-            <guid isPermaLink="false">56ac3c1b-ad75-4c35-b96d-4a907bf621ae</guid>
-            <pubDate>Wed, 17 Aug 2016 16:06:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
